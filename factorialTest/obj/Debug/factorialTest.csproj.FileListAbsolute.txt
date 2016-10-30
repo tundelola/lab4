@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\obj\Debug\factorialTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\bin\Debug\factorialTest.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\bin\Debug\factorialTest.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\bin\Debug\calcFactorial.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\bin\Debug\calcFactorial.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\obj\Debug\factorialTest.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\calcFactorial\factorialTest\obj\Debug\factorialTest.pdb
